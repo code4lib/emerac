@@ -1,19 +1,17 @@
 {
-  "name":        "hosted-hubot",
+  "name":        "emerac",
   "version":     "0.1.0",
   "author":      "GitHub Inc.",
-  "keywords":    "github hubot campfire bot",
-  "description": "A simple helpful Robot for your Company",
+  "keywords":    "irc bot hubot code4lib",
+  "description": "A hubot for code4lib",
   "licenses":     [{
     "type":       "MIT",
     "url":        "http://github.com/github/hubot/raw/master/LICENSE"
   }],
-
   "repository" : {
     "type" : "git",
-    "url" : "http://github.com/github/hubot.git"
+    "url" : "http://github.com/code4lib/emerac.git"
   },
-
   "dependencies": {
     "hubot": "1.1.4",
     "hubot-scripts": "1.1.2",
