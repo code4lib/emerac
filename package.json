@@ -13,8 +13,9 @@
     "url" : "http://github.com/code4lib/emerac.git"
   },
   "dependencies": {
-    "hubot": "1.1.11",
-    "hubot-scripts": "1.1.2",
+    "hubot": ">=2.0.0",
+    "hubot-irc": ">=0.0.5",
+    "hubot-scripts": ">=2.0.2",
     "optparse": "1.0.1", 
     "paperboy": "0.0.2"
   }
