@@ -7,5 +7,5 @@ baconz = [
     ]
     
 module.exports = (robot) ->
-  robot.hear /bacon/i, (msg) ->
+  robot.respond /bacon/i, (msg) ->
     msg.send msg.random baconz
